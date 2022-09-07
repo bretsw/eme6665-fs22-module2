@@ -83,11 +83,11 @@ include_graphics("img/pen.jpg")
 
 class: inverse, center, middle
 
-# `r fa("fas fa-thumbtack", fill = "#fff")` <br><br> Do You Trust Me?
+# `r fa("fas fa-handshake", fill = "#fff")` <br><br> Do You Trust Me?
 
 ---
 
-# `r fa("comments", fill = "#fff")` News Literacy
+# `r fa("fas fa-handshake", fill = "#fff")` News Literacy
 
 ```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
 include_graphics("img/2-news-literate.png")
